@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 688896,
+      "name": "Deekshay ",
+      "number": "98256526",
+      "email": "dup@email.com"
+    },
+    {
+      "id": 275517,
+      "name": "Shiv ",
+      "number": "85686923",
+      "email": "smb@email.com"
+    },
+    {
+      "id": 526528,
+      "name": "Jyoti ",
+      "number": "70085962",
+      "email": "jms@email.com"
+    },
+    {
+      "id": 388392,
+      "name": "Bhavya ",
+      "number": "85562251",
+      "email": "bjj@email.com"
+    },
+    {
+      "id": 949971,
+      "name": "Priyal ",
+      "number": "63453523",
+      "email": "pbh@email.com"
+    },
+    {
+      "id": 138843,
+      "name": "Foram ",
+      "number": "98565623",
+      "email": "fbp@email.com"
+    },
+    {
+      "id": 256563,
+      "name": "Mansi ",
+      "number": "98654512",
+      "email": "mmp@email.com"
+    },
+    {
+      "id": 984512,
+      "name": "Ankur",
+      "number": "63634141",
+      "email": "akp@email.com"
+    }
+  ]
+}
